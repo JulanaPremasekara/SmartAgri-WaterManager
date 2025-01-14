@@ -45,29 +45,18 @@ This project addresses water scarcity and inefficient irrigation in agriculture 
 
 ---
 
-## *Team Members*  
-- *[Your Name]* (Team Leader)  
-- [Teammate Name 1]  
-- [Teammate Name 2]  
-- [Teammate Name 3]  
-- [Teammate Name 4]  
-- [Teammate Name 5]  
-
----
 
 ## *Repository Structure*  
 ```plaintext
 Smart-Water-Tank-IoT-System/
-├── README.md                      # Project overview and details
+├── README.md                      
 ├── Code/
-│   ├── main_code.ino              # ESP32 code
+│   ├── main_code.ino              
 ├── Media/
-│   ├── system_architecture_diagram.png  # Architecture diagram
-│   ├── app_interface_screenshot.png     # Screenshot of the Blynk app
-│   ├── prototype_photo.jpg              # Annotated prototype image
+│   ├── system_architecture_diagram.png  
+│   ├── app_interface_screenshot.png     
 ├── Documentation/
-│   ├── Project_Report.pdf         # Optional, detailed project report
-├── LICENSE                        # Optional, choose an open-source license
+│   ├── Project_Report.pdf         
 
 
 ---
