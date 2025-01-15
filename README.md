@@ -15,7 +15,7 @@ This project addresses water scarcity and inefficient irrigation in agriculture 
 ---
 
 ## *System Architecture*  
-![System Architecture](Media/system_architecture_diagram.png)
+![System Architecture](Media/system_architecture_diagram.jpg)
 
 ---
 
